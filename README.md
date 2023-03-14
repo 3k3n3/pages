@@ -5,7 +5,6 @@
 Virtual Envs. | Docker
 --- | ---
 Isolates Python packages | Isolate non-python software
---- | ---
 Relies on system level installation of python | Isolates the entire OS and python itself is installed with it
 
 # Steps to build a Dockerized Django project
