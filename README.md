@@ -1,13 +1,13 @@
 # Why Docker?
 
-### Virtual Environments vs Containers (eg Docker)
+## Virtual Environments vs Containers (eg Docker)
 
 Virtual Envs. | Docker
 --- | ---
 Isolates Python packages | Isolate non-python software
 Relies on system level installation of python | Isolates the entire OS and python itself is installed with it
 
-# Steps to build a Dockerized Django project
+## Steps to build a Dockerized Django project
 
 - Create a new virtual environment and install django
 - Create a new Django project within it
